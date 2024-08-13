@@ -1,0 +1,22 @@
+{
+  "name": "d-proyek-ku-astro-nextui",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/react": "^3.6.1",
+    "@nextui-org/input": "^2.2.4",
+    "@nextui-org/react": "^2.4.6",
+    "astro": "^4.12.3"
+  },
+  "devDependencies": {
+    "@astrojs/tailwind": "^5.1.0",
+    "tailwindcss": "^3.4.7"
+  }
+}
